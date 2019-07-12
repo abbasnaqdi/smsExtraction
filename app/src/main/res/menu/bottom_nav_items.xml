@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@drawable/ico_info"
+        android:title="@string/strMenuAbout"
+        app:actionViewClass="com.dfmabbas.smsbackup.custome.CusTextView"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_list"
+        android:icon="@drawable/ico_list"
+        android:title="@string/strMenuList"
+        app:actionViewClass="com.dfmabbas.smsbackup.custome.CusTextView"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_backup"
+        android:icon="@drawable/ico_backup"
+        android:title="@string/strMenuBackup"
+        app:actionViewClass="com.dfmabbas.smsbackup.custome.CusTextView"
+        app:showAsAction="ifRoom" />
+</menu>

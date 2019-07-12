@@ -1,0 +1,18 @@
+<resources>
+    <string name="strName">sms2html</string>
+    <string name="strErrorSave">Unfortunately, storage is not possible, try again.</string>
+    <string name="strBackupSaved">Messages backup saved.</string>
+    <string name="strNotFoundBackup">Backup file not found.</string>
+    <string name="strMenuBackup">Backup</string>
+    <string name="strMenuList">List</string>
+    <string name="strBackupNav">Backup</string>
+    <string name="strListBackupsNav">List of backup files</string>
+    <string name="strAboutNav">About</string>
+    <string name="strMenuAbout">About</string>
+    <string name="strAboutText">This app is for backup of your text messages, enjoy the simplicity, speed and beauty of this app :)</string>
+    <string name="strBackupText">Please choose one of the options below.</string>
+    <string name="strBackupAllAsc">By date (ascending)</string>
+    <string name="strBackupAllDesc">By date (descending)</string>
+    <string name="strBackupMakeFile">Generate Backup</string>
+    <string name="str_empty">Empty List :)</string>
+</resources>
